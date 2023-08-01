@@ -884,3 +884,24 @@ java.lang.InterruptedException
 	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:76)
 	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:13:02.997
+!MESSAGE Classpath changed for project: ratings-data-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:13:47.572
+!MESSAGE Classpath changed for project: ratings-data-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:13:52.619
+!MESSAGE Classpath changed for project: ratings-data-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:14:07.664
+!MESSAGE Classpath changed for project: ratings-data-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:14:30.932
+!MESSAGE Classpath changed for project: ratings-data-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:14:34.210
+!MESSAGE Classpath changed for project: ratings-data-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-01 22:15:09.874
+!MESSAGE Classpath changed for project: ratings-data-service
